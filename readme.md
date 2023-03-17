@@ -1,6 +1,6 @@
-##
+#
     Hola,soy Nicolas Angerossa
-### 
+ 
     -Legajo: 13413
     -Tengo 19 años y estoy cursando el 2do año de ingenieria en Sistemas
     -Discord: Nicotito#4844
