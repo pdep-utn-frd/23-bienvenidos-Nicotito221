@@ -8,4 +8,4 @@
 
     -Me interesa demasiado la carrera tanto como para lo laboral y personal.
     
-    ![] (https://github.com/pdep-utn-frd/23-bienvenidos-Nicotito221/blob/main/logofrd.jpg)
+    ![](https://github.com/pdep-utn-frd/23-bienvenidos-Nicotito221/blob/main/logofrd.jpg)
